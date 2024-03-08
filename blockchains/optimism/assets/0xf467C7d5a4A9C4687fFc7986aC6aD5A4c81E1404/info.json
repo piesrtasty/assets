@@ -1,0 +1,58 @@
+{
+  "name": "Protocol Token",
+  "type": "ERC20",
+  "symbol": "KITE",
+  "decimals": 18,
+  "description": "KITE is the governance token and backstop mechanism for the HAI protocol.",
+  "website": "https://www.letsgethai.com",
+  "explorer": "https://optimistic.etherscan.io",
+  "id": "0xf467C7d5a4A9C4687fFc7986aC6aD5A4c81E1404",
+  "status": "active",
+  "tags": ["defi", "governance"],
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/hai-on-op"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/letsgethai"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/+0iIhX0f9DDAxODE5"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/hai-finance"
+    },
+    {
+      "name": "governance-docs",
+      "url": "https://hai-9.gitbook.io/hai-governance-documentation/"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "TBD"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/coins/kite"
+    },
+    {
+      "name": "docs",
+      "url": "https://docs.letsgethai.com/detailed/intro/hai.html"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/letsgethai"
+    },
+    {
+      "name": "forum",
+      "url": "https://commonwealth.im/lets-get-hai"
+    },
+    {
+      "name": "farcaster",
+      "url": "https://warpcast.com/letsgethai"
+    }
+  ]
+}
